@@ -1,0 +1,17 @@
+.container{
+    color:rgb(137, 166, 190);
+    background-color: rgb(47, 27, 85);
+    padding: 10px;
+}
+a{
+    font-size: 15px;
+}
+#textcolor {
+    color: rgb(80, 30, 138);
+ }
+.border {
+    color:rgb(15, 57, 94);
+    background-color:rgb(247, 247, 248);
+    padding: 10px;
+
+ }
